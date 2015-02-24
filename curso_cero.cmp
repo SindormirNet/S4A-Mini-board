@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by Cvpcb 0.201502221246+5442~21~ubuntu14.04.1-product   date = Tue 24 Feb 2015 02:29:41 PM CET
+
+BeginCmp
+TimeStamp = /54BE5031;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE44FF;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE466A;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE4501;
+Reference = P1;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE705E;
+Reference = P2;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE9E4F;
+Reference = P3;
+ValeurCmp = CONN_01X03;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BEA1A7;
+Reference = P4;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE9283;
+Reference = P5;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE9318;
+Reference = P6;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE7EE2;
+Reference = P7;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE857D;
+Reference = P8;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BF9265;
+Reference = P9;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE4FDB;
+Reference = R1;
+ValeurCmp = 330R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE57F0;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE44FE;
+Reference = R3;
+ValeurCmp = 330R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE584B;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE45E3;
+Reference = R5;
+ValeurCmp = 330R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE6119;
+Reference = R6;
+ValeurCmp = LDR;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE6161;
+Reference = R7;
+ValeurCmp = 10K;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE4B2B;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE4C98;
+Reference = RV2;
+ValeurCmp = POT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE481D;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = Buzzers_Beepers:MagneticBuzzer_ProSignal_ABI-009-RC;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE571B;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Discret:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BE58B8;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = Discret:SW_PUSH_SMALL;
+EndCmp
+
+EndListe
