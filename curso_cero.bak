@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:curso_cero-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -10,7 +11,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -45,7 +45,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L R R3
+L R-RESCUE-curso_cero R3
 U 1 1 54BE44FE
 P 3750 2500
 F 0 "R3" V 3830 2500 50  0000 C CNN
@@ -56,7 +56,7 @@ F 3 "" H 3750 2500 30  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED D2
+L LED-RESCUE-curso_cero D2
 U 1 1 54BE44FF
 P 3750 3100
 F 0 "D2" H 3750 3200 50  0000 C CNN
@@ -152,7 +152,7 @@ Wire Wire Line
 Text GLabel 4300 1950 0    60   Input ~ 0
 PIN12
 $Comp
-L R R5
+L R-RESCUE-curso_cero R5
 U 1 1 54BE45E3
 P 4400 2500
 F 0 "R5" V 4480 2500 50  0000 C CNN
@@ -163,7 +163,7 @@ F 3 "" H 4400 2500 30  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED D3
+L LED-RESCUE-curso_cero D3
 U 1 1 54BE466A
 P 4400 3100
 F 0 "D3" H 4400 3200 50  0000 C CNN
@@ -236,7 +236,7 @@ F 3 "" H 6500 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV1
+L POT-RESCUE-curso_cero RV1
 U 1 1 54BE4B2B
 P 6150 2650
 F 0 "RV1" H 6150 2550 50  0000 C CNN
@@ -253,7 +253,7 @@ PINA0
 Wire Wire Line
 	6300 2650 6550 2650
 $Comp
-L POT RV2
+L POT-RESCUE-curso_cero RV2
 U 1 1 54BE4C98
 P 7250 2650
 F 0 "RV2" H 7250 2550 50  0000 C CNN
@@ -283,7 +283,7 @@ Wire Wire Line
 Wire Wire Line
 	7100 3200 7250 3200
 $Comp
-L R R1
+L R-RESCUE-curso_cero R1
 U 1 1 54BE4FDB
 P 3150 2500
 F 0 "R1" V 3230 2500 50  0000 C CNN
@@ -294,7 +294,7 @@ F 3 "" H 3150 2500 30  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED D1
+L LED-RESCUE-curso_cero D1
 U 1 1 54BE5031
 P 3150 3100
 F 0 "D1" H 3150 3200 50  0000 C CNN
@@ -354,7 +354,7 @@ F 3 "" H 3150 5700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R2
+L R-RESCUE-curso_cero R2
 U 1 1 54BE57F0
 P 3150 5250
 F 0 "R2" V 3230 5250 50  0000 C CNN
@@ -365,7 +365,7 @@ F 3 "" H 3150 5250 30  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R4
+L R-RESCUE-curso_cero R4
 U 1 1 54BE584B
 P 4250 5250
 F 0 "R4" V 4330 5250 50  0000 C CNN
@@ -422,7 +422,7 @@ Wire Wire Line
 Wire Wire Line
 	4250 5500 4250 5700
 $Comp
-L R R6
+L R-RESCUE-curso_cero R6
 U 1 1 54BE6119
 P 5400 4450
 F 0 "R6" V 5480 4450 50  0000 C CNN
@@ -433,7 +433,7 @@ F 3 "" H 5400 4450 30  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R7
+L R-RESCUE-curso_cero R7
 U 1 1 54BE6161
 P 5400 5250
 F 0 "R7" V 5480 5250 50  0000 C CNN
