@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/kwendenarmo/git-repos/remote/kwendenarmo/S4A-Mini-board/curso_cero.sch)
-    (date "sáb 29 abr 2017 19:49:35 CEST")
+    (date "sáb 29 abr 2017 20:30:31 CEST")
     (tool "Eeschema 4.0.6-e0-6349~53~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -76,7 +76,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 54BE5031))
     (comp (ref SW1)
-      (value SW_PUSH)
+      (value PULSA)
       (footprint Buttons_Switches_ThroughHole:SW_PUSH_6mm_h5mm)
       (libsource (lib curso_cero-cache) (part SW_PUSH))
       (sheetpath (names /) (tstamps /))
@@ -94,7 +94,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 54BE584B))
     (comp (ref SW2)
-      (value SW_PUSH)
+      (value PULSA)
       (footprint Buttons_Switches_ThroughHole:SW_PUSH_6mm_h5mm)
       (libsource (lib curso_cero-cache) (part SW_PUSH))
       (sheetpath (names /) (tstamps /))
