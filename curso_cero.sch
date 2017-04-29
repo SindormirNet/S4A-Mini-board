@@ -400,17 +400,17 @@ F 3 "" H 1550 6950 60  0000 C CNN
 	1    1550 6950
 	1    0    0    1   
 $EndComp
-Text GLabel 1150 7200 0    50   Input ~ 0
-PINA0
-Text GLabel 1150 7100 0    50   Input ~ 0
-PINA1
-Text GLabel 1150 7000 0    50   Input ~ 0
-PINA2
-Text GLabel 1150 6900 0    50   Input ~ 0
-PINA3
-Text GLabel 1150 6800 0    50   Input ~ 0
-PINA4
 Text GLabel 1150 6700 0    50   Input ~ 0
+PINA0
+Text GLabel 1150 6800 0    50   Input ~ 0
+PINA1
+Text GLabel 1150 6900 0    50   Input ~ 0
+PINA2
+Text GLabel 1150 7000 0    50   Input ~ 0
+PINA3
+Text GLabel 1150 7100 0    50   Input ~ 0
+PINA4
+Text GLabel 1150 7200 0    50   Input ~ 0
 PINA5
 $Comp
 L CONN_01X08 P7
@@ -691,17 +691,17 @@ Wire Wire Line
 Wire Wire Line
 	2550 5600 2450 5600
 Wire Wire Line
-	1150 7200 1350 7200
+	1150 6700 1350 6700
 Wire Wire Line
-	1350 7100 1150 7100
+	1350 6800 1150 6800
 Wire Wire Line
-	1150 7000 1350 7000
+	1150 6900 1350 6900
 Wire Wire Line
-	1350 6900 1150 6900
+	1350 7000 1150 7000
 Wire Wire Line
-	1150 6800 1350 6800
+	1150 7100 1350 7100
 Wire Wire Line
-	1350 6700 1150 6700
+	1350 7200 1150 7200
 Wire Wire Line
 	2450 7000 2650 7000
 Wire Wire Line
