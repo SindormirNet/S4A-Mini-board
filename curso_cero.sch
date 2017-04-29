@@ -146,8 +146,8 @@ F 3 "" H 5000 4250 60  0000 C CNN
 	1    5000 4250
 	1    0    0    -1  
 $EndComp
-Text GLabel 6900 2000 0    60   Input ~ 0
-PIN10
+Text GLabel 6900 2000 0    50   Input ~ 0
+PIND10
 $Comp
 L SPEAKER SP1
 U 1 1 54BE481D
