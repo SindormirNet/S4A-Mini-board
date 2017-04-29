@@ -38,10 +38,10 @@ Title "Sindormir.net S4A Mini Board"
 Date "2017-04-28"
 Rev "v0.3"
 Comp "Sindormir.net"
-Comment1 ""
+Comment1 "https://github.com/SindormirNet/S4A-Mini-board/"
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Copyright (C) 2015-2017 sindormir.net"
+Comment4 "Released under GNU/GPL 3 License https://www.gnu.org/licenses/gpl.html"
 $EndDescr
 $Comp
 L R-RESCUE-curso_cero R3
